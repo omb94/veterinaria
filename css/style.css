@@ -1,0 +1,35 @@
+.mjey-color-contac{
+	background-color:#E8EAF6;
+}
+#tabla_productos {
+	width: 100%;
+}
+#tabla_productos td,
+#tabla_productos th {
+	padding: 15px;
+	border-top: 1px #DDD solid;
+}
+#tabla_productos .img-prod, 
+#tabla_productos .img-prod img {
+	width: 100px;
+}
+
+#navbarExample .dropdown-toggle {
+	vertical-align: middle;
+}
+
+#integrantes {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 11px;
+    margin-left: 165px;
+}
+
+#tema {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    text-align: center;
+}
+
+#iniciar{
+    color: aqua;
+}
