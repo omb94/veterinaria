@@ -214,8 +214,8 @@ button:active {
     padding-left: 60px;
 }
 
-.connect a.facebook { background: url(/img/img_login/facebook.png) center center no-repeat; }
-.connect a.twitter { background: url(/img/img_login/twitter.png) center center no-repeat; }
+.connect a.facebook { background: url(/veterinaria/img/img_login/facebook.png) center center no-repeat; }
+.connect a.twitter { background: url(/veterinaria/img/img_login/twitter.png) center center no-repeat; }
 
 .connect a:hover { background-position: center bottom; }
 
