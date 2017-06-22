@@ -186,7 +186,7 @@ button:active {
 }
 
 #logo_sesion{
-    width: 250px;        
+    width: 150px;        
 }
 
 #panel{
@@ -209,9 +209,7 @@ button:active {
     margin-top: auto;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 80px;
-    padding-left: 60px;
-    padding-left: 60px;
+   
 }
 
 .connect a.facebook { background: url(/veterinaria/img/img_login/facebook.png) center center no-repeat; }
